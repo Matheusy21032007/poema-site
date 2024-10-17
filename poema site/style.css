@@ -1,0 +1,19 @@
+/* Define a cor de fundo e estilos básicos */
+body {
+    background-color: #8ec8fa;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+p {
+    font-size: 18px;
+    color: #555;
+    line-height: 1.6;
+    text-align: center;
+}
